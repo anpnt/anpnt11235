@@ -1,0 +1,4 @@
+https://repo.msys2.org/distrib/x86_64/
+sudo apt update -y
+sudo apt install zstd
+zstd -d zsh-5.9-2-x86_64.pkg.tar.zst
